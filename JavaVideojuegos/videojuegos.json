@@ -1,0 +1,640 @@
+{
+  "OTROS": [
+    {
+      "fechaLanzamiento": "2023-10-05",
+      "id": "92",
+      "plataforma": "OTROS",
+      "precio": "52.99",
+      "titulo": "Peaky Blinders Tommy"
+    },
+    {
+      "fechaLanzamiento": "2023-12-05",
+      "id": "91",
+      "plataforma": "OTROS",
+      "precio": "51.99",
+      "titulo": "Doctor Who Tardis"
+    },
+    {
+      "fechaLanzamiento": "2023-11-05",
+      "id": "90",
+      "plataforma": "OTROS",
+      "precio": "50.99",
+      "titulo": "Sherlock Holmes"
+    },
+    {
+      "fechaLanzamiento": "2023-10-04",
+      "id": "89",
+      "plataforma": "OTROS",
+      "precio": "49.99",
+      "titulo": "The Big Bang Theory Sheldon"
+    },
+    {
+      "fechaLanzamiento": "2023-12-04",
+      "id": "88",
+      "plataforma": "OTROS",
+      "precio": "48.99",
+      "titulo": "Lord of the Rings Frodo"
+    },
+    {
+      "fechaLanzamiento": "2023-11-04",
+      "id": "87",
+      "plataforma": "OTROS",
+      "precio": "47.99",
+      "titulo": "Star Trek Spock"
+    },
+    {
+      "fechaLanzamiento": "2023-10-03",
+      "id": "86",
+      "plataforma": "OTROS",
+      "precio": "46.99",
+      "titulo": "Breaking Bad Walter"
+    },
+    {
+      "fechaLanzamiento": "2023-12-03",
+      "id": "85",
+      "plataforma": "OTROS",
+      "precio": "45.99",
+      "titulo": "The Simpsons Homer"
+    },
+    {
+      "fechaLanzamiento": "2023-11-03",
+      "id": "84",
+      "plataforma": "OTROS",
+      "precio": "44.99",
+      "titulo": "Friends Ross"
+    },
+    {
+      "fechaLanzamiento": "2023-12-02",
+      "id": "82",
+      "plataforma": "OTROS",
+      "precio": "43.99",
+      "titulo": "Game of Thrones Jon Snow"
+    },
+    {
+      "fechaLanzamiento": "2023-10-02",
+      "id": "83",
+      "plataforma": "OTROS",
+      "precio": "42.99",
+      "titulo": "The Office Michael"
+    },
+    {
+      "fechaLanzamiento": "2023-12-01",
+      "id": "79",
+      "plataforma": "OTROS",
+      "precio": "41.99",
+      "titulo": "The Mandalorian"
+    },
+    {
+      "fechaLanzamiento": "2023-11-02",
+      "id": "81",
+      "plataforma": "OTROS",
+      "precio": "40.99",
+      "titulo": "Stranger Things Eleven"
+    },
+    {
+      "fechaLanzamiento": "2023-10-01",
+      "id": "80",
+      "plataforma": "OTROS",
+      "precio": "39.99",
+      "titulo": "Harry Potter"
+    },
+    {
+      "fechaLanzamiento": "2023-11-01",
+      "id": "78",
+      "plataforma": "OTROS",
+      "precio": "38.99",
+      "titulo": "The Witcher Geralt"
+    }
+  ],
+  "SONY": [
+    {
+      "fechaLanzamiento": "2018-04-20",
+      "id": "2",
+      "plataforma": "SONY",
+      "precio": "49.99",
+      "titulo": "God of War"
+    },
+    {
+      "fechaLanzamiento": "2023-11-05",
+      "id": "75",
+      "plataforma": "SONY",
+      "precio": "36.99",
+      "titulo": "Doctor Strange Mystic"
+    },
+    {
+      "fechaLanzamiento": "2023-11-04",
+      "id": "72",
+      "plataforma": "SONY",
+      "precio": "35.99",
+      "titulo": "Black Widow Spy"
+    },
+    {
+      "fechaLanzamiento": "2023-03-01",
+      "id": "61",
+      "plataforma": "SONY",
+      "precio": "34.99",
+      "titulo": "Black Widow Spies"
+    },
+    {
+      "fechaLanzamiento": "2023-11-03",
+      "id": "69",
+      "plataforma": "SONY",
+      "precio": "34.99",
+      "titulo": "Hulk Smash"
+    },
+    {
+      "fechaLanzamiento": "2022-12-01",
+      "id": "58",
+      "plataforma": "SONY",
+      "precio": "33.99",
+      "titulo": "Vision Synthezoid"
+    },
+    {
+      "fechaLanzamiento": "2023-11-02",
+      "id": "66",
+      "plataforma": "SONY",
+      "precio": "33.99",
+      "titulo": "Captain America Shield"
+    },
+    {
+      "fechaLanzamiento": "2022-09-01",
+      "id": "55",
+      "plataforma": "SONY",
+      "precio": "32.99",
+      "titulo": "Ant-Man Shrink"
+    },
+    {
+      "fechaLanzamiento": "2023-11-01",
+      "id": "63",
+      "plataforma": "SONY",
+      "precio": "32.99",
+      "titulo": "Thor Thunder"
+    },
+    {
+      "fechaLanzamiento": "2022-06-01",
+      "id": "52",
+      "plataforma": "SONY",
+      "precio": "31.99",
+      "titulo": "Loki Mischief"
+    },
+    {
+      "fechaLanzamiento": "2022-03-01",
+      "id": "49",
+      "plataforma": "SONY",
+      "precio": "30.99",
+      "titulo": "Scarlet Witch Powers"
+    },
+    {
+      "fechaLanzamiento": "2023-11-01",
+      "id": "46",
+      "plataforma": "SONY",
+      "precio": "29.99",
+      "titulo": "Thor Hammer"
+    },
+    {
+      "fechaLanzamiento": "2023-09-01",
+      "id": "43",
+      "plataforma": "SONY",
+      "precio": "28.99",
+      "titulo": "Iron Man Flight"
+    },
+    {
+      "fechaLanzamiento": "2023-06-01",
+      "id": "41",
+      "plataforma": "SONY",
+      "precio": "27.99",
+      "titulo": "Deadpool Swords"
+    },
+    {
+      "fechaLanzamiento": "2023-03-01",
+      "id": "38",
+      "plataforma": "SONY",
+      "precio": "26.99",
+      "titulo": "Black Panther King"
+    },
+    {
+      "fechaLanzamiento": "2023-02-01",
+      "id": "35",
+      "plataforma": "SONY",
+      "precio": "25.99",
+      "titulo": "Doctor Strange Magic"
+    },
+    {
+      "fechaLanzamiento": "2023-01-01",
+      "id": "32",
+      "plataforma": "SONY",
+      "precio": "24.99",
+      "titulo": "Captain Marvel Flight"
+    },
+    {
+      "fechaLanzamiento": "2023-12-01",
+      "id": "29",
+      "plataforma": "SONY",
+      "precio": "23.99",
+      "titulo": "Hawkeye Archer"
+    },
+    {
+      "fechaLanzamiento": "2023-10-01",
+      "id": "26",
+      "plataforma": "SONY",
+      "precio": "22.99",
+      "titulo": "Wolverine Claws"
+    },
+    {
+      "fechaLanzamiento": "2023-08-01",
+      "id": "23",
+      "plataforma": "SONY",
+      "precio": "21.99",
+      "titulo": "Batman Dark"
+    },
+    {
+      "fechaLanzamiento": "2022-07-01",
+      "id": "9",
+      "plataforma": "SONY",
+      "precio": "20.99",
+      "titulo": "Captain America Shield"
+    },
+    {
+      "fechaLanzamiento": "2022-04-01",
+      "id": "21",
+      "plataforma": "SONY",
+      "precio": "19.99",
+      "titulo": "Thanos Infinity"
+    },
+    {
+      "fechaLanzamiento": "2022-06-01",
+      "id": "6",
+      "plataforma": "SONY",
+      "precio": "18.99",
+      "titulo": "Iron Man Classic"
+    },
+    {
+      "fechaLanzamiento": "2022-02-01",
+      "id": "18",
+      "plataforma": "SONY",
+      "precio": "18.99",
+      "titulo": "Black Widow Spy"
+    },
+    {
+      "fechaLanzamiento": "2022-12-01",
+      "id": "15",
+      "plataforma": "SONY",
+      "precio": "17.99",
+      "titulo": "Hulk Smash"
+    },
+    {
+      "fechaLanzamiento": "2022-10-01",
+      "id": "12",
+      "plataforma": "SONY",
+      "precio": "16.99",
+      "titulo": "Thor Hammer"
+    }
+  ],
+  "PC": [
+    {
+      "fechaLanzamiento": "2023-10-05",
+      "id": "77",
+      "plataforma": "PC",
+      "precio": "45.99",
+      "titulo": "Tokyo Ghoul Kaneki"
+    },
+    {
+      "fechaLanzamiento": "2023-10-04",
+      "id": "74",
+      "plataforma": "PC",
+      "precio": "42.99",
+      "titulo": "My Hero Academia Deku"
+    },
+    {
+      "fechaLanzamiento": "2023-10-03",
+      "id": "71",
+      "plataforma": "PC",
+      "precio": "40.99",
+      "titulo": "Attack on Titan Eren"
+    },
+    {
+      "fechaLanzamiento": "2023-10-02",
+      "id": "68",
+      "plataforma": "PC",
+      "precio": "37.99",
+      "titulo": "Dragon Ball Goku"
+    },
+    {
+      "fechaLanzamiento": "2023-02-01",
+      "id": "60",
+      "plataforma": "PC",
+      "precio": "35.99",
+      "titulo": "Hunter x Hunter Gon"
+    },
+    {
+      "fechaLanzamiento": "2023-10-01",
+      "id": "65",
+      "plataforma": "PC",
+      "precio": "35.99",
+      "titulo": "One Piece Luffy"
+    },
+    {
+      "fechaLanzamiento": "2022-11-01",
+      "id": "57",
+      "plataforma": "PC",
+      "precio": "34.99",
+      "titulo": "Dragon Ball Goku"
+    },
+    {
+      "fechaLanzamiento": "2022-08-01",
+      "id": "54",
+      "plataforma": "PC",
+      "precio": "33.99",
+      "titulo": "My Hero Academia Deku"
+    },
+    {
+      "fechaLanzamiento": "2022-05-01",
+      "id": "51",
+      "plataforma": "PC",
+      "precio": "32.99",
+      "titulo": "Attack on Titan Eren"
+    },
+    {
+      "fechaLanzamiento": "2022-02-01",
+      "id": "48",
+      "plataforma": "PC",
+      "precio": "31.99",
+      "titulo": "One Punch Man Saitama"
+    },
+    {
+      "fechaLanzamiento": "2022-01-01",
+      "id": "45",
+      "plataforma": "PC",
+      "precio": "30.99",
+      "titulo": "Naruto Uzumaki"
+    },
+    {
+      "fechaLanzamiento": "2023-05-01",
+      "id": "40",
+      "plataforma": "PC",
+      "precio": "29.99",
+      "titulo": "One Piece Zoro"
+    },
+    {
+      "fechaLanzamiento": "2022-12-01",
+      "id": "37",
+      "plataforma": "PC",
+      "precio": "28.99",
+      "titulo": "Fairy Tail Natsu"
+    },
+    {
+      "fechaLanzamiento": "2022-10-01",
+      "id": "34",
+      "plataforma": "PC",
+      "precio": "27.99",
+      "titulo": "Tokyo Ghoul Kaneki"
+    },
+    {
+      "fechaLanzamiento": "2022-08-01",
+      "id": "31",
+      "plataforma": "PC",
+      "precio": "26.99",
+      "titulo": "Sword Art Online Kirito"
+    },
+    {
+      "fechaLanzamiento": "2022-06-01",
+      "id": "28",
+      "plataforma": "PC",
+      "precio": "25.99",
+      "titulo": "Death Note Light"
+    },
+    {
+      "fechaLanzamiento": "2022-05-01",
+      "id": "25",
+      "plataforma": "PC",
+      "precio": "24.99",
+      "titulo": "Bleach Ichigo"
+    },
+    {
+      "fechaLanzamiento": "2022-01-01",
+      "id": "17",
+      "plataforma": "PC",
+      "precio": "22.99",
+      "titulo": "Dragon Ball Goku"
+    },
+    {
+      "fechaLanzamiento": "2022-09-01",
+      "id": "11",
+      "plataforma": "PC",
+      "precio": "21.99",
+      "titulo": "Attack on Titan Eren"
+    },
+    {
+      "fechaLanzamiento": "2022-11-01",
+      "id": "14",
+      "plataforma": "PC",
+      "precio": "20.99",
+      "titulo": "My Hero Academia Deku"
+    },
+    {
+      "fechaLanzamiento": "2022-08-01",
+      "id": "5",
+      "plataforma": "PC",
+      "precio": "19.99",
+      "titulo": "Naruto Shippuden"
+    },
+    {
+      "fechaLanzamiento": "2022-08-01",
+      "id": "8",
+      "plataforma": "PC",
+      "precio": "19.99",
+      "titulo": "One Piece Luffy"
+    }
+  ],
+  "NINTENDO": [
+    {
+      "fechaLanzamiento": "2023-03-01",
+      "id": "10",
+      "plataforma": "NINTENDO",
+      "precio": "99.99",
+      "titulo": "TEST UPDATE"
+    },
+    {
+      "fechaLanzamiento": "2021-03-03",
+      "id": "1",
+      "plataforma": "NINTENDO",
+      "precio": "59.99",
+      "titulo": "The Legend of Zelda: Breath of the Wild"
+    },
+    {
+      "fechaLanzamiento": "2023-12-05",
+      "id": "76",
+      "plataforma": "NINTENDO",
+      "precio": "51.99",
+      "titulo": "Stitch Musician"
+    },
+    {
+      "fechaLanzamiento": "2023-12-04",
+      "id": "73",
+      "plataforma": "NINTENDO",
+      "precio": "48.99",
+      "titulo": "Stitch Cook"
+    },
+    {
+      "fechaLanzamiento": "2023-12-03",
+      "id": "70",
+      "plataforma": "NINTENDO",
+      "precio": "45.99",
+      "titulo": "Stitch Pirate"
+    },
+    {
+      "fechaLanzamiento": "2023-04-01",
+      "id": "62",
+      "plataforma": "NINTENDO",
+      "precio": "42.99",
+      "titulo": "Stitch Diver"
+    },
+    {
+      "fechaLanzamiento": "2023-12-02",
+      "id": "67",
+      "plataforma": "NINTENDO",
+      "precio": "42.99",
+      "titulo": "Stitch Surfer"
+    },
+    {
+      "fechaLanzamiento": "2023-01-01",
+      "id": "59",
+      "plataforma": "NINTENDO",
+      "precio": "41.99",
+      "titulo": "Stitch Painter"
+    },
+    {
+      "fechaLanzamiento": "2022-10-01",
+      "id": "56",
+      "plataforma": "NINTENDO",
+      "precio": "40.99",
+      "titulo": "Stitch Skater"
+    },
+    {
+      "fechaLanzamiento": "2022-07-01",
+      "id": "53",
+      "plataforma": "NINTENDO",
+      "precio": "39.99",
+      "titulo": "Stitch Baseball"
+    },
+    {
+      "fechaLanzamiento": "2023-12-01",
+      "id": "64",
+      "plataforma": "NINTENDO",
+      "precio": "39.99",
+      "titulo": "Stitch Space"
+    },
+    {
+      "fechaLanzamiento": "2022-04-01",
+      "id": "50",
+      "plataforma": "NINTENDO",
+      "precio": "38.99",
+      "titulo": "Stitch Basketball"
+    },
+    {
+      "fechaLanzamiento": "2023-12-01",
+      "id": "47",
+      "plataforma": "NINTENDO",
+      "precio": "37.99",
+      "titulo": "Stitch Surfer"
+    },
+    {
+      "fechaLanzamiento": "2023-10-01",
+      "id": "44",
+      "plataforma": "NINTENDO",
+      "precio": "36.99",
+      "titulo": "Stitch Footballer"
+    },
+    {
+      "fechaLanzamiento": "2023-07-01",
+      "id": "42",
+      "plataforma": "NINTENDO",
+      "precio": "35.99",
+      "titulo": "Stitch Cowboy"
+    },
+    {
+      "fechaLanzamiento": "2023-04-01",
+      "id": "39",
+      "plataforma": "NINTENDO",
+      "precio": "34.99",
+      "titulo": "Stitch Pirate"
+    },
+    {
+      "fechaLanzamiento": "2022-11-01",
+      "id": "36",
+      "plataforma": "NINTENDO",
+      "precio": "33.99",
+      "titulo": "Stitch Astronaut"
+    },
+    {
+      "fechaLanzamiento": "2022-09-01",
+      "id": "33",
+      "plataforma": "NINTENDO",
+      "precio": "32.99",
+      "titulo": "Stitch Firefighter"
+    },
+    {
+      "fechaLanzamiento": "2022-07-01",
+      "id": "30",
+      "plataforma": "NINTENDO",
+      "precio": "31.99",
+      "titulo": "Stitch Doctor"
+    },
+    {
+      "fechaLanzamiento": "2023-11-01",
+      "id": "27",
+      "plataforma": "NINTENDO",
+      "precio": "30.99",
+      "titulo": "Stitch Chef"
+    },
+    {
+      "fechaLanzamiento": "2023-09-01",
+      "id": "24",
+      "plataforma": "NINTENDO",
+      "precio": "29.99",
+      "titulo": "Stitch Santa"
+    },
+    {
+      "fechaLanzamiento": "2023-07-01",
+      "id": "22",
+      "plataforma": "NINTENDO",
+      "precio": "28.99",
+      "titulo": "Stitch Pilot"
+    },
+    {
+      "fechaLanzamiento": "2023-06-01",
+      "id": "19",
+      "plataforma": "NINTENDO",
+      "precio": "27.99",
+      "titulo": "Stitch King"
+    },
+    {
+      "fechaLanzamiento": "2023-05-01",
+      "id": "16",
+      "plataforma": "NINTENDO",
+      "precio": "26.99",
+      "titulo": "Stitch Alien"
+    },
+    {
+      "fechaLanzamiento": "2023-01-01",
+      "id": "4",
+      "plataforma": "NINTENDO",
+      "precio": "25.99",
+      "titulo": "Stitch Hula"
+    },
+    {
+      "fechaLanzamiento": "2023-04-01",
+      "id": "13",
+      "plataforma": "NINTENDO",
+      "precio": "24.99",
+      "titulo": "Stitch Guitar"
+    },
+    {
+      "fechaLanzamiento": "2023-02-01",
+      "id": "7",
+      "plataforma": "NINTENDO",
+      "precio": "22.99",
+      "titulo": "Stitch Space Suit"
+    }
+  ]
+}

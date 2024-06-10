@@ -1,0 +1,91 @@
+ID,NOMBRE,PLATAFORMA,PRECIO,FECHA_LANZAMIENTO
+1,Spiderman Delight,SONY,15.99,2022-05-01
+2,Stitch Hula,NINTENDO,25.99,2023-01-01
+3,Naruto Shippuden,PC,19.99,2022-08-01
+4,Iron Man Classic,SONY,18.99,2022-06-01
+5,Stitch Space Suit,NINTENDO,22.99,2023-02-01
+6,One Piece Luffy,PC,19.99,2022-08-01
+7,Captain America Shield,SONY,20.99,2022-07-01
+8,Stitch Surfer,NINTENDO,23.99,2023-03-01
+9,Attack on Titan Eren,PC,21.99,2022-09-01
+10,Thor Hammer,SONY,16.99,2022-10-01
+11,Stitch Guitar,NINTENDO,24.99,2023-04-01
+12,My Hero Academia Deku,PC,20.99,2022-11-01
+13,Hulk Smash,SONY,17.99,2022-12-01
+14,Stitch Alien,NINTENDO,26.99,2023-05-01
+15,Dragon Ball Goku,PC,22.99,2022-01-01
+16,Black Widow Spy,SONY,18.99,2022-02-01
+17,Stitch King,NINTENDO,27.99,2023-06-01
+18,One Punch Man,PC,23.99,2022-03-01
+19,Thanos Infinity,SONY,19.99,2022-04-01
+20,Stitch Pilot,NINTENDO,28.99,2023-07-01
+21,Batman Dark,SONY,21.99,2023-08-01
+22,Stitch Santa,NINTENDO,29.99,2023-09-01
+23,Bleach Ichigo,PC,24.99,2022-05-01
+24,Wolverine Claws,SONY,22.99,2023-10-01
+25,Stitch Chef,NINTENDO,30.99,2023-11-01
+26,Death Note Light,PC,25.99,2022-06-01
+27,Hawkeye Archer,SONY,23.99,2023-12-01
+28,Stitch Doctor,NINTENDO,31.99,2022-07-01
+29,Sword Art Online Kirito,PC,26.99,2022-08-01
+30,Captain Marvel Flight,SONY,24.99,2023-01-01
+31,Stitch Firefighter,NINTENDO,32.99,2022-09-01
+32,Tokyo Ghoul Kaneki,PC,27.99,2022-10-01
+33,Doctor Strange Magic,SONY,25.99,2023-02-01
+34,Stitch Astronaut,NINTENDO,33.99,2022-11-01
+35,Fairy Tail Natsu,PC,28.99,2022-12-01
+36,Black Panther King,SONY,26.99,2023-03-01
+37,Stitch Pirate,NINTENDO,34.99,2023-04-01
+38,One Piece Zoro,PC,29.99,2023-05-01
+39,Deadpool Swords,SONY,27.99,2023-06-01
+40,Stitch Cowboy,NINTENDO,35.99,2023-07-01
+41,Iron Man Flight,SONY,28.99,2023-09-01
+42,Stitch Footballer,NINTENDO,36.99,2023-10-01
+43,Naruto Uzumaki,PC,30.99,2022-01-01
+44,Thor Hammer,SONY,29.99,2023-11-01
+45,Stitch Surfer,NINTENDO,37.99,2023-12-01
+46,One Punch Man Saitama,PC,31.99,2022-02-01
+47,Scarlet Witch Powers,SONY,30.99,2022-03-01
+48,Stitch Basketball,NINTENDO,38.99,2022-04-01
+49,Attack on Titan Eren,PC,32.99,2022-05-01
+50,Loki Mischief,SONY,31.99,2022-06-01
+51,Stitch Baseball,NINTENDO,39.99,2022-07-01
+52,My Hero Academia Deku,PC,33.99,2022-08-01
+53,Ant-Man Shrink,SONY,32.99,2022-09-01
+54,Stitch Skater,NINTENDO,40.99,2022-10-01
+55,Dragon Ball Goku,PC,34.99,2022-11-01
+56,Vision Synthezoid,SONY,33.99,2022-12-01
+57,Stitch Painter,NINTENDO,41.99,2023-01-01
+58,Hunter x Hunter Gon,PC,35.99,2023-02-01
+59,Black Widow Spies,SONY,34.99,2023-03-01
+60,Stitch Diver,NINTENDO,42.99,2023-04-01
+61,Thor Thunder,SONY,32.99,2023-11-01
+62,Stitch Space,NINTENDO,39.99,2023-12-01
+63,One Piece Luffy,PC,35.99,2023-10-01
+64,Captain America Shield,SONY,33.99,2023-11-02
+65,Stitch Surfer,NINTENDO,42.99,2023-12-02
+66,Dragon Ball Goku,PC,37.99,2023-10-02
+67,Hulk Smash,SONY,34.99,2023-11-03
+68,Stitch Pirate,NINTENDO,45.99,2023-12-03
+69,Attack on Titan Eren,PC,40.99,2023-10-03
+70,Black Widow Spy,SONY,35.99,2023-11-04
+71,Stitch Cook,NINTENDO,48.99,2023-12-04
+72,My Hero Academia Deku,PC,42.99,2023-10-04
+73,Doctor Strange Mystic,SONY,36.99,2023-11-05
+74,Stitch Musician,NINTENDO,51.99,2023-12-05
+75,Tokyo Ghoul Kaneki,PC,45.99,2023-10-05
+76,The Witcher Geralt,OTROS,38.99,2023-11-01
+77,The Mandalorian,OTROS,41.99,2023-12-01
+78,Harry Potter,OTROS,39.99,2023-10-01
+79,Stranger Things Eleven,OTROS,40.99,2023-11-02
+80,Game of Thrones Jon Snow,OTROS,43.99,2023-12-02
+81,The Office Michael,OTROS,42.99,2023-10-02
+82,Friends Ross,OTROS,44.99,2023-11-03
+83,The Simpsons Homer,OTROS,45.99,2023-12-03
+84,Breaking Bad Walter,OTROS,46.99,2023-10-03
+85,Star Trek Spock,OTROS,47.99,2023-11-04
+86,Lord of the Rings Frodo,OTROS,48.99,2023-12-04
+87,The Big Bang Theory Sheldon,OTROS,49.99,2023-10-04
+88,Sherlock Holmes,OTROS,50.99,2023-11-05
+89,Doctor Who Tardis,OTROS,51.99,2023-12-05
+90,Peaky Blinders Tommy,OTROS,52.99,2023-10-05
